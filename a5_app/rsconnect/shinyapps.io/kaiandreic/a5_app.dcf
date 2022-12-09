@@ -1,0 +1,13 @@
+name: a5_app
+title: a5_app
+username:
+account: kaiandreic
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7841259
+bundleId: 6614005
+url: https://kaiandreic.shinyapps.io/a5_app/
+when: 1670559542.39651
+lastSyncTime: 1670559542.39653
+asMultiple: FALSE
+asStatic: FALSE
